@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about Conrard Tetsassi
+title: about C. Tetsassi
 nav: true
 nav_order: 8
 dropdown: true
