@@ -5,15 +5,15 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Waterloo Artificial Intelligence Institute, Waterloo Institute for Nanotechnology
 
 profile:
-  align: right
-  image: NaCl_1000_points
+  align: up
+  image: AI-Drug-Discovery-Molecules-Business-455668503
   image_circular: False # crops the image to make it circular
-  address: >
-    <p>University of Waterloo</p>
-    <p>200 University Ave. West, Waterloo, ON N2L 3G1, Canada</p>
-    <p>Office: PHY 2018</p>
-    <p>cgtetsas@uwaterloo.ca</p>
-    <p>519 888 4567 ext. 33024</p>
+  #address: >
+    #<p>University of Waterloo</p>
+    #<p>200 University Ave. West, Waterloo, ON N2L 3G1, Canada</p>
+    #<p>Office: PHY 2018</p>
+    #<p>cgtetsas@uwaterloo.ca</p>
+    #<p>519 888 4567 ext. 33024</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
