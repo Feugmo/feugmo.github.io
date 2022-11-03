@@ -2,11 +2,12 @@
 layout: home
 title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Waterloo Artificial Intelligence Institute, Waterloo Institute for Nanotechnology
+subtitle:  Department of chemistry, University of Waterloo, Waterloo, ON, Canada
+subsubtitle: Affiliations  <a href='https://uwaterloo.ca/artificial-intelligence-institute/'s>Waterloo Artificial Intelligence</a>  <a href='https://www.google.com/search?client=safari&rls=en&q=Institute%2C+Waterloo+Institute+for+Nanotechnology&ie=UTF-8&oe=UTF-8'>Institute, Waterloo Institute for Nanotechnology      s</a> 
 
 profile:
-  align: up
-  image: AI-Drug-Discovery-Molecules-Business-455668503
+  align: right
+  image: toc.jpg
   image_circular: False # crops the image to make it circular
   #address: >
     #<p>University of Waterloo</p>
@@ -21,4 +22,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Research at the Chemistry Intelligence Group (@UWaterloo) is focused on computation, machine learning and AI methods for materials in sustainability-related domains, gas sensor, aerospace , and healthcare. The  group mainly engages multiscale simulations, including First principle calculations,  Molecular Dynamics, Monte Carlo,  and Phase-field model together with machine learning to unravel the structure–property relationship.
+Research at Chemical Artificial Intelligence Lab @UWaterloo is focused on computation, machine learning and AI methods for materials in sustainability-related domains, gas sensor, aerospace , and healthcare. The  group mainly engages multiscale simulations, including First principle calculations,  Molecular Dynamics, Monte Carlo,  and Phase-field model together with machine learning to unravel the structure–property relationship.

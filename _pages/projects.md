@@ -8,6 +8,7 @@ nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
+Under development
 
 <!-- pages/projects.md -->
 <div class="projects">
