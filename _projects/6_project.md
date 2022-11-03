@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Methods
+description: Bond Evolution Theory and Grand-canonical approach
+img: assets/img/DFT.png
 importance: 4
-category: fun
+category: AI & methods
 ---
 
 Every project has a beautiful feature showcase page.

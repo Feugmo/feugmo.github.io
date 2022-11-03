@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Hydrogen Storage
+description: Thermodynamic and Kinetic Modeling of Hydrogen Storage  in High Entropy Alloys (HEAs) Materials
+img: assets/img/MH_absorption.png
 importance: 1
-category: work
+category: Materials Sciences
 ---
 
 Every project has a beautiful feature showcase page.

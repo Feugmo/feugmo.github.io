@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Time evolution
+description: Simulating the time evolution of chemical and biological processes  
+img: assets/img/MD_water.gif
 importance: 3
-category: fun
+category: AI & methods
 ---
 
 Every project has a beautiful feature showcase page.

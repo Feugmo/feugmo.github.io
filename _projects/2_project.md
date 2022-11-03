@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Chemical Gas Sensors
+description: Computational design of nanomaterial-based MMO gas sensors for breath diagnosis
+img: assets/img/GasSensor.jpg
 importance: 2
-category: work
+category: Materials Sciences
 ---
 
 Every project has a beautiful feature showcase page.

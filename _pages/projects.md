@@ -1,14 +1,52 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of our cool projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Materials Sciences , AI & methods]
 horizontal: false
 ---
-Under development
+****
+# Research  Expertise
+- Computational chemistry
+- AI & Machine Learning
+- Materials Sciences, electrochemistry and surface sciences
+- Nonlinear Optics,
+- Vibrational and Electronic Spectroscopies
+- First Principle Calculations, Molecular Dynamics
+- Monte Carlo Simulation, Microkinetic Modeling
+- High performance computing and software development
+- Data solutions for sciences
+
+
+
+****
+# Research  Interests
+- Accelerating Materials Discovery with AI
+    - High entropy alloys
+    - Mixed metal oxides
+- Computational design of Innovative Materials
+    - Gas sensors for breath diagnosis
+    - Storing Hydrogen in Metal Hydrides
+    - Solid-state batteries
+    - Na-ion batteries
+    - Electroreduction of nitrogen to ammonia
+- Deep Learning
+    - Graph Neural Network
+    - Generative Model
+    - Dynamics systems
+    - Representations of molecules and materials for ML  
+
+- Data solutions for sciences
+    - Facilitate and standardize new innovative data solutions for science
+    - Building agile and flexible digital infrastructure to allow autonomy and scalability
+
+
+
+****
+# Projects
 
 <!-- pages/projects.md -->
 <div class="projects">

@@ -44,7 +44,6 @@
       year: 2018 - 2020
       description:
         - Multiscale modeling of Optical properties of fluorencent polymers
-        - Multiscale modeling of Optical properties of fluorencent polymers
 
 
     - title: Teaching Assistant
@@ -60,7 +59,7 @@
       description: Collection of Tutorials in Machine Learning for Beginer
     - title: <a href="https://github.com/Feugmo/simexec.git">simexec</a>
       year: 2022-now
-      description: Atumated Simulation Executor using AiiDA to manage Multiple Calculations on HPC 
+      description: Atumated Simulation Executor using AiiDA to manage Multiple Calculations on HPC
 
 - title: Honors and Awards
   type: time_table
@@ -85,7 +84,7 @@
       items:
         - High entropy alloys
         - Mixed metal oxides
-    - title: Computational design of Inovated Materials
+    - title: Computational design of Innovative Materials
       items:
         - Gas sensors for breath diagnosis
         - Storing Hydrogen in Metal Hydrides

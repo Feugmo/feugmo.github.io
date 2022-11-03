@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Representation
+description: Representations of molecules and materials for ML  
+img: assets/img/Molecule.jpeg
 importance: 3
-category: fun
+category: AI & methods
 ---
 
 Every project has a beautiful feature showcase page.

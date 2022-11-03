@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Batteries
+description: Solid-state  and  Na-ion batteries
+img: assets/img/Solid-State-Batteries-3.png
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: Materials Sciences
 ---
 
 Every project has a beautiful feature showcase page.
