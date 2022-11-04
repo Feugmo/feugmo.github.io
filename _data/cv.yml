@@ -4,13 +4,13 @@
     - name: Full Name
       value: Conrard Giresse Tetsassi Feugmo
     - name: Languages
-      value: English, French,  Yemba
+      value: English, French,   <a href="https://en.wikipedia.org/wiki/Yemba_language">Yemba</a>
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D
-      institution: University Of Namur, Namur, Belgium
+      institution: University of Namur, Namur, Belgium
       year: 2018
 
     - title: Advanced Master in Nanotechnologies
@@ -43,11 +43,10 @@
       institution: Universtity of Western Ontario, London, ON, Canada.
       year: 2018 - 2020
       description:
-        - Multiscale modeling of Optical properties of fluorencent polymers
 
 
     - title: Teaching Assistant
-      institution: University Of Namur, Namur, Belgium
+      institution: University of Namur, Namur, Belgium
       year: 2012 - 2020
 
 
@@ -89,8 +88,8 @@
         - Gas sensors for breath diagnosis
         - Storing Hydrogen in Metal Hydrides
         - Solid-state batteries
-        - Na-ion batteries
-        - Electroreduction of nitrogen to ammonia
+        - Li/Na-ion batteries
+        - Heterogenous catalysis
     - title: Geometric Machine Learning
       items:
         - Graph Neural Network

@@ -8,7 +8,7 @@ middle_name:
 last_name: Tetsassi Feugmo
 email: cgtetsass@uwaterloo.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Chemical Artificial Intelligence Lab @UWaterloo
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -50,9 +50,9 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 1600px
 
-# TODO: add layout settings (single page vs. multi-page)
+# TODO: add layout settings (single page vs. multi-page)One workaround is to manually adjust the value $max-content-width: 800px; in _sass\_variables.scss.
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org

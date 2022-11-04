@@ -1,80 +1,34 @@
 ---
 layout: page
-title: Chemical Gas Sensors
-description: Computational design of nanomaterial-based MMO gas sensors for breath diagnosis
-img: assets/img/GasSensor.jpg
+title: Sensors for VOCs
+description: Computational design of nanomaterial-based  gas sensors for breath diagnosis
+img: assets/img/images_large_nn1c10827_0001.jpeg
 importance: 2
 category: Materials Sciences
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Cover Image : Copyright © 2015 John Wiley & Sons, In,
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<!--- https://www.figaro.co.jp/en/movie/  -->
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
+There are more than 870 kinds of volatile organic compounds (VOCs) in human breath. These VOCs provide important information about metabolic disorders or dysfunction in the human body. Human breath is  feasible candidates for either invasive or noninvasive detection of VOCs for diagnosis of diseases. Breath analysis is a method to diagnose disease by detecting changes in the VOCs in exhaled breath. This method is a noninvasive, direct, and low-cost technique, which may contribute to the development of predictive, preventive, personalised, and participatory (“P4”) medicine. The VOCs in breath, such as alcohols, aldehydes, acids, and ketones, are produced by different biochemical and physiological processes. Abnormal VOC levels indicate an abnormal metabolic state, and they can be used to distinguish sick patients from healthy people. Some VOCs in breath are biomarkers of certain diseases. Once the concentration of VOCs in breath samples is sufficiently high, diagnosis and the following treatment should be performed as soon as possible.However, it is challenging to precisely determine VOC concentrations in breath, and typical endogenous VOCs in the range of 1–5000 ppb (parts per billion) can be quantified using GC-MS technology. [J. Mater. Chem. B, 2020, 8, 3231-3248]  
+
+
+Metal oxide semiconductor (MOS) sensors detect concentration of various types of gases by measuring the resistance change of the metal oxide due to adsorption of gases. Atmospheric oxygen residing on the MOS surface is reduced by the target gases, allowing more electrons in the conduction band of the metal oxide material.
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/f1_hi-res.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/images_large_nn1c10827_0005.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rsos201324f05.jpg" title="Schematic diagram: sensing mechanism of n-type and p-type MOSs" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Nanomaterial -based electrical, optical, and mass-sensitive gas sensors used for the breath analysis of diseases (© The Royal Society of Chemistry, J. Mater. Chem. B, 2020, 8, 3231-3248 ). Schematics illustrating different VOC sensing approaches for disease detection: (a) selective sensing approach; (b) cross-reactive sensing approach. Reprinted with permission from ref (9) (Copyright 2015 John Wiley & Sons, In, ACS Nano 2022, 16, 5, 7080-7115).  Schematic diagram: sensing mechanism of n-type and p-type MOSs. (Copyright 2021 The Royal  Chemical Society,   R. Soc. Open Sci. 8 201324)

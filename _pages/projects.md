@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of our cool projects.
 nav: true
 nav_order: 2
-display_categories: [Materials Sciences , AI & methods]
+display_categories: [Materials Sciences , Core AI &  Computational methods]
 horizontal: false
 ---
 ****
