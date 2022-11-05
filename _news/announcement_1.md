@@ -20,7 +20,7 @@ inline: false
     - **Primary fields:** Mixed metal oxides,  2D-Materials,  Microkinetic Modeling, Grand canonical electronic density-functional theory , DFT + U Approach,  Machine Learning
 
 
-- **Project 3**:   A Bonding Evolution Theory (BET) study on Dual-Atom Catalysts in Electrocatalysis
+- **Project 3**:   A Bonding Evolution Theory (BET) study on Dual-Atom Catalysts: Electrochemical synthesis of ammonia
     - **Primary fields:** Heterogenous catalysis, Bonding Evolution Theory, Electron Localized Function, Dual-atom catalysts, Microkinetic Modeling, DFT
 
 - **Project 4**: Computational design of Inorganic solid electrolyte (ISE)

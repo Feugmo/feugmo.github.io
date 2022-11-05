@@ -22,7 +22,7 @@ nav_order: 6
     - **Primary fields:** Mixed metal oxides,  2D-Materials,  Microkinetic Modeling, Grand canonical electronic density-functional theory , DFT + U Approach,  Machine Learning
 
 
-- **Project 3**:   A Bonding Evolution Theory (BET) study on Dual-Atom Catalysts in Electrocatalysis
+- **Project 3**:  A Bonding Evolution Theory (BET) study on Dual-Atom Catalysts: Electrochemical synthesis of ammonia
     - **Primary fields:** Heterogenous catalysis, Bonding Evolution Theory, Electron Localized Function, Dual-atom catalysts, Microkinetic Modeling, DFT
 
 - **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
@@ -41,7 +41,7 @@ One PDF position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage 
 ***
 # Summer and Undergraduate students
 
-Working in our research group is an excellent way to gain valuable researach and computing experience. Undergraduate students wishing to work in our group are encouraged to contact me. The following funding opportunities exist for undergraduate students in our group:
+Working in our research group is an excellent way to gain valuable research and computing experience. Undergraduate students wishing to work in our group are encouraged to contact me. The following funding opportunities exist for undergraduate students in our group:
 
 [NSERC Undergraduate Student Research Award (USRA)](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp)
 

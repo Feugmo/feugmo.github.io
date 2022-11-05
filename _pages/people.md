@@ -10,4 +10,4 @@ nav_order: 5
 Under development
 display_categories: [Members,  Former members]
 
-Group Leader 
+Group Leader
