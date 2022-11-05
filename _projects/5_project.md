@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Time evolution
-description: Simulating the time evolution of chemical and biological processes  
-img: assets/img/MD_water.gif
+title: Fluid Particles
+description: Complex dynamical system of particles in chemistry and biology
+img: assets/img/fluid.gif
 importance: 3
 category: Core AI &  Computational methods
 ---
 
-<!--- https://en.wikipedia.org/wiki/File:MD_water.gif-->
+Cover Image : A complex dynamical system of particles simulating a fluid. Image: [David Li.](https://github.com/dli/fluid)
 
 Coming Soon :alarm_clock:
