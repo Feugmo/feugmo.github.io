@@ -10,7 +10,7 @@ nav_order: 6
 ***
 # Current fully funded offerings
 
-## 1-2 MSc or PhD starting in Sep 2023 and onwards:
+## 1-2 MSc  starting in Sep 2023 and onwards:
 
 1 or 2 fully funded MSc / PhD positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
 
@@ -28,9 +28,9 @@ nav_order: 6
 - **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
     - **Primary fields:**  Solid-state battery, Solid ionic conductivity, electron-insulating material, Lithium-ion battery,  ceramic materials, Microkinetic Modeling, Grand canonical electronic density-functional theory,  Machine Learning
 
-##  One Postdoctoral Fellowships
+##  one  PhD
 
-One PDF position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials. Strong skills in computation/theory required. Open until filled.
+One PhD position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
 
 
 - **Stream 1 :**  First-principles Calculations, Kinetic Monte Carlo, Metal Hydride,  Density Functional Theory, Machine Learning, Ab initio MD calculations, Computational X-ray spectroscopy.
@@ -41,7 +41,7 @@ One PDF position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage 
 ***
 # Summer and Undergraduate students
 
-Working in our research group is an excellent way to gain valuable research and computing experience. Undergraduate students wishing to work in our group are encouraged to contact me. The following funding opportunities exist for undergraduate students in our group:
+Working in our research group is an excellent way to gain valuable rese and computing experience. Undergraduate students wishing to work in our group are encouraged to contact me. The following funding opportunities exist for undergraduate students in our group:
 
 [NSERC Undergraduate Student Research Award (USRA)](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp)
 

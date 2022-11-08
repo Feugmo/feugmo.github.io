@@ -9,9 +9,10 @@ inline: false
 
 ***
 
-## 1-2 MSc or PhD
+## 1-2 MSc  starting in Sep 2023 and onwards:
 
 1 or 2 fully funded MSc / PhD positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
+
 
 - **Projet 1:** Accelerating the design of High Entropy Alloys using Machine Learning
     - **Primary fields:**  High Entropy Alloys, Graph Neural Network, Active Learning, Bayesian Optimization, Adaptive Design, Generative Model, Inverse Design
@@ -20,20 +21,21 @@ inline: false
     - **Primary fields:** Mixed metal oxides,  2D-Materials,  Microkinetic Modeling, Grand canonical electronic density-functional theory , DFT + U Approach,  Machine Learning
 
 
-- **Project 3**:   A Bonding Evolution Theory (BET) study on Dual-Atom Catalysts: Electrochemical synthesis of ammonia
+- **Project 3**:  A Bonding Evolution Theory (BET) study on Dual-Atom Catalysts: Electrochemical synthesis of ammonia
     - **Primary fields:** Heterogenous catalysis, Bonding Evolution Theory, Electron Localized Function, Dual-atom catalysts, Microkinetic Modeling, DFT
 
 - **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
     - **Primary fields:**  Solid-state battery, Solid ionic conductivity, electron-insulating material, Lithium-ion battery,  ceramic materials, Microkinetic Modeling, Grand canonical electronic density-functional theory,  Machine Learning
 
-##  One Postdoctoral Fellowships
+##  one  PhD
 
-One PDF position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials. Strong skills in computation/theory required. Open until filled.
+One PhD position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
 
 
-- **Stream 1 :**  First-principles Calculations, Kinetic Monte Carlo, Metal Hydride, Density Functional Theory, Machine Learning, Ab initio MD calculations, Computational X-ray spectroscopy.
+- **Stream 1 :**  First-principles Calculations, Kinetic Monte Carlo, Metal Hydride,  Density Functional Theory, Machine Learning, Ab initio MD calculations, Computational X-ray spectroscopy.
 
-- **Stream 2:** Phase-field modeling, Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  High Entropy Alloys, Metal Hydride, Hydrogen storage
+- **Stream 2:** Phase-field modeling, Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  High Entropy Alloys, Metal Hydride,  Machine Learning
+
 
 <!---
 
