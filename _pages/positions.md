@@ -6,13 +6,16 @@ description: Position available at  the Chem AI Lab at the University of Waterlo
 nav: true
 nav_order: 6
 ---
+***
+
+At the Chem AI Lab, we know diversity enables excellence in research and innovation. We are committed to a diverse and representative workforce, an open and inclusive work environment, and contributing to a more inclusive  innovation system. We welcomes all qualified applicants and encourages candidates to self-declare as members of the following designated employment equity groups: women, visible minorities, aboriginal peoples and persons with disabilities
 
 ***
 # Current fully funded offerings
 
 ## 1-2 MSc  starting in Sep 2023 and onwards:
 
-1 or 2 fully funded MSc / PhD positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
+1 or 2 fully funded MSc  in  Computational Chemistry/Materials science and  Machine Learning  in my group
 
 
 - **Projet 1:** Accelerating the design of High Entropy Alloys using Machine Learning
@@ -37,7 +40,6 @@ One PhD position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage 
 
 - **Stream 2:** Phase-field modeling, Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  High Entropy Alloys, Metal Hydride,  Machine Learning
 
-At the Chem AI Lab, we know diversity enables excellence in research and innovation. We are committed to a diverse and representative workforce, an open and inclusive work environment, and contributing to a more inclusive  innovation system. We welcomes all qualified applicants and encourages candidates to self-declare as members of the following designated employment equity groups: women, visible minorities, aboriginal peoples and persons with disabilities
 
 ***
 # Summer and Undergraduate students

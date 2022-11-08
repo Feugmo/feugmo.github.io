@@ -9,9 +9,13 @@ inline: false
 
 ***
 
+At the Chem AI Lab, we know diversity enables excellence in research and innovation. We are committed to a diverse and representative workforce, an open and inclusive work environment, and contributing to a more inclusive  innovation system. We welcomes all qualified applicants and encourages candidates to self-declare as members of the following designated employment equity groups: women, visible minorities, aboriginal peoples and persons with disabilities
+
+***
+
 ## 1-2 MSc  starting in Sep 2023 and onwards:
 
-1 or 2 fully funded MSc / PhD positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
+1 or 2 fully funded MSc positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
 
 
 - **Projet 1:** Accelerating the design of High Entropy Alloys using Machine Learning
@@ -27,9 +31,9 @@ inline: false
 - **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
     - **Primary fields:**  Solid-state battery, Solid ionic conductivity, electron-insulating material, Lithium-ion battery,  ceramic materials, Microkinetic Modeling, Grand canonical electronic density-functional theory,  Machine Learning
 
-##  one  PhD
+##  one  Ph.D
 
-One PhD position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
+One Ph.D position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
 
 
 - **Stream 1 :**  First-principles Calculations, Kinetic Monte Carlo, Metal Hydride,  Density Functional Theory, Machine Learning, Ab initio MD calculations, Computational X-ray spectroscopy.
