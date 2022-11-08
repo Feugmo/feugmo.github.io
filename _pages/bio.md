@@ -14,6 +14,3 @@ Dr. Conrard Giresse Tetsassi Feugmo  completed  a  B.Sc. and  M.Sc. in Chemistry
 
 At date,  he started a new position as Assistant Professor of Chemistry at the [University of Waterloo](https://uwaterloo.ca/chemistry/). He has published numerous papers and has been recognized for excellence in research, teaching, and outreach. In the future, he hopes to develop an innovative open-source platform where AI, Computation and Experimentation are all combined to effectively address the challenges areas related to sustainability and healthcare.
 Conrard speaks  [Yemba](https://en.wikipedia.org/wiki/Yemba_language), French, and  English
-
-
-Away from the office…  Conrard spends a lot of time with his family, plays soccer and music.
