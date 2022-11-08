@@ -37,6 +37,7 @@ One PhD position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage 
 
 - **Stream 2:** Phase-field modeling, Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  High Entropy Alloys, Metal Hydride,  Machine Learning
 
+At the Chem AI Lab, we know diversity enables excellence in research and innovation. We are committed to a diverse and representative workforce, an open and inclusive work environment, and contributing to a more inclusive  innovation system. We welcomes all qualified applicants and encourages candidates to self-declare as members of the following designated employment equity groups: women, visible minorities, aboriginal peoples and persons with disabilities
 
 ***
 # Summer and Undergraduate students
