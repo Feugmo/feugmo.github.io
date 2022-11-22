@@ -5,12 +5,10 @@ date: 2022-11-01 08:00:00-0400
 inline: false
 ---
 
-# Current fully funded offerings
+At the Feugmo Research Group, we know diversity enables excellence in research and innovation. We are committed to a diverse and representative workforce, an open and inclusive work environment, and contributing to a more inclusive  innovation system. We welcomes all qualified applicants and encourages candidates to self-declare as members of the following designated employment equity groups: women, visible minorities, aboriginal peoples and persons with disabilities
 
 ***
-
-At the Chem AI Lab, we know diversity enables excellence in research and innovation. We are committed to a diverse and representative workforce, an open and inclusive work environment, and contributing to a more inclusive  innovation system. We welcomes all qualified applicants and encourages candidates to self-declare as members of the following designated employment equity groups: women, visible minorities, aboriginal peoples and persons with disabilities
-
+# Current Positions
 ***
 
 ## 1-2 MSc/PhD  starting in Sep 2023 and onwards:

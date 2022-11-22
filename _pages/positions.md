@@ -8,14 +8,14 @@ nav_order: 6
 ---
 ***
 
-At the Chem AI Lab, we know diversity enables excellence in research and innovation. We are committed to a diverse and representative workforce, an open and inclusive work environment, and contributing to a more inclusive  innovation system. We welcomes all qualified applicants and encourages candidates to self-declare as members of the following designated employment equity groups: women, visible minorities, aboriginal peoples and persons with disabilities
+At the Feugmo Research Group, we know diversity enables excellence in research and innovation. We are committed to a diverse and representative workforce, an open and inclusive work environment, and contributing to a more inclusive  innovation system. We welcomes all qualified applicants and encourages candidates to self-declare as members of the following designated employment equity groups: women, visible minorities, aboriginal peoples and persons with disabilities
 
 ***
-# Current fully funded offerings
+# Current Positions
 
 ## 1-2 MSc/PhD  starting in Sep 2023 and onwards:
 
-1 or 2 fully funded MSc/PhD positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
+1 or 2 MSc/PhD positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
 
 
 - **Projet 1:** Accelerating the design of High Entropy Alloys using Machine Learning
