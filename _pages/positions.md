@@ -2,7 +2,7 @@
 layout: page
 permalink: /positions/
 title: positions
-description: Position available at  the Chem AI Lab at the University of Waterloo, department of Chemistry Waterloo, ON, Canada
+description: Position available at  the Feugmo Research Group, University of Waterloo, department of Chemistry Waterloo, ON, Canada
 nav: true
 nav_order: 6
 ---

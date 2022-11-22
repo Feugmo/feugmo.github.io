@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to the Feugmo Research Group @UWaterloo 
+Welcome to the Feugmo Research Group @UWaterloo
 
-Our research is focused on computation, machine learning and AI methods for materials in areas related to sustainability, gas sensors, aerospace and healthcare. The  group mainly engages multiscale simulations, including First principle calculations,  Molecular Dynamics, Monte Carlo,  and Phase-field model together with machine learning to discover cutting-edge materials
+Our research is focused on computation, machine learning and AI methods for materials in areas related to sustainability, gas sensors, aerospace and healthcare. The  group mainly engages multiscale simulations, including First principle calculations,  Molecular Dynamics, Monte Carlo,  and Phase-field model together with machine learning to discover cutting-edge technologies
 
 ****
 **Group Leader:** [Conrard Giresse Tetsassi Feugmo](https://uwaterloo.ca/chemistry/people-profiles/conrard-giresse-tetsassi-feugmo), Assistant Professor
