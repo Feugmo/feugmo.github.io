@@ -18,10 +18,10 @@ At the Feugmo Research Group, we know diversity enables excellence in research a
 1 or 2 MSc/PhD positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
 
 
-- **Projet 1:** Accelerating the design of High Entropy Alloys using Machine Learning
+- **Project 1:** Accelerating the design of High Entropy Alloys using Machine Learning
     - **Primary fields:**  High Entropy Alloys, Graph Neural Network, Active Learning, Bayesian Optimization, Adaptive Design, Generative Model, Inverse Design
 
-- **Projet 2:**  Computational design of nanomaterial-based gas sensors for breath diagnosis
+- **Project 2:**  Computational design of nanomaterial-based gas sensors for breath diagnosis
     - **Primary fields:** Mixed metal oxides,  2D-Materials,  Microkinetic Modeling, Grand canonical electronic density-functional theory , DFT + U Approach,  Machine Learning
 
 
