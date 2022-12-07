@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hydrogen Storage
-description: Thermodynamic and Kinetic Modeling of Hydrogen Storage  in High Entropy Alloys (HEAs) Materials (@image: https://www.hystorsys.no/our-story/)
+description: Thermodynamic and Kinetic Modeling of Hydrogen Storage  in High Entropy Alloys (HEAs) Materials 
 img: assets/img/MH_absorption.png
 importance: 1
 category: Materials Sciences
