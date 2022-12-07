@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /positions/
-title: open positions
+title: Open positions
 description: Position available at  the Feugmo Research Group, University of Waterloo, department of Chemistry Waterloo, ON, Canada
 nav: true
 nav_order: 6
@@ -25,9 +25,9 @@ Working in our research group is an excellent way to gain valuable rese and comp
 
 
 ***
-# Graduate Studies
+# Graduate positions
 
-Currently considering applications from graduate students. A completed online application is required for admission; [start the application process now.](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school/before-you-apply)
+Currently considering applications from graduate students. A completed online application is required for admission; [application process start here.](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school/before-you-apply)
 
 
 There are several scholarship opportunities for both Canadian (including Permanent Residents) and international candidates. Students who hold OGS Scholarships from the Ontario Provincial Government, or NSERC PGS awards from the Canadian federal government, are eligible for top-up Awards.
@@ -49,9 +49,7 @@ Useful links for prospective students:
 
 # Current Positions
 
-## 1-2 Graduate Studies  starting in Sep 2023 and onwards:
-
-1 or 2  Graduate positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
+## 1-2  Graduate positions in  Computational Chemistry/Materials science and  Machine Learning  in my group (starting in Sep 2023 and onwards)
 
 
 - **Project 1:** Accelerating the design of High Entropy Alloys using Machine Learning
@@ -104,9 +102,7 @@ NSERC Industrial R&D Fellowships (Canadian citizens or Permanent Residents)
 # Current Positions
 
 
-##  one  postdoctoral
-
-One postdoctoral position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
+##  One postdoctoral position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
 
 
 - **Stream 1 :**  First-principles Calculations, Kinetic Monte Carlo, Metal Hydride,  Density Functional Theory, Machine Learning, Ab initio MD calculations, Computational X-ray spectroscopy.
