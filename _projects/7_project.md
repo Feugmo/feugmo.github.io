@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Electrochemical Ammonia Synthesis and Ammonia Fuel Cells  
-description: Ammonia as Hydrogen carrier, Electrochemical NOx and N2 reduction, Electrochemical NH3 decomposition  (@image, Materials Today Physics 2021, 16, 100310)
+description: Ammonia as Hydrogen carrier, Electrochemical NOx and N2 reduction, Electrochemical NH3 decomposition  
 img: assets/img/NH3.jpg
 importance: 4
 category: Materials Sciences

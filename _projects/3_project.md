@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Batteries
-description: Solid-state batteries  and  Sodium- and Lithium-based batteries (@image: Murata Manufacturing Co)
+description: Solid-state batteries  and  Sodium- and Lithium-based batteries 
 img: assets/img/basic-lithium-ion-battery-4-1_en.png
 importance: 3
 category: Materials Sciences

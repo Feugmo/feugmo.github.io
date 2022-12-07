@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fluid Particles
-description: Complex dynamical system of particles in chemistry and biology (@image: https://github.com/dli/fluid )
+description: Complex dynamical system of particles in chemistry and biology 
 img: assets/img/fluid.gif
 importance: 3
 category: Core AI &  Computational methods

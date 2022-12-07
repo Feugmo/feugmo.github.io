@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sensors for VOCs
-description: Computational design of nanomaterial-based  gas sensors for breath diagnosis (@image: https://www.figaro.co.jp/en/movie/)
+description: Computational design of nanomaterial-based  gas sensors for breath diagnosis 
 img: assets/img/images_large_nn1c10827_0001.jpeg
 importance: 2
 category: Materials Sciences
