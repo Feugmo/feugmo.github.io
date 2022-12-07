@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /positions/
-title: positions
+title: open positions
 description: Position available at  the Feugmo Research Group, University of Waterloo, department of Chemistry Waterloo, ON, Canada
 nav: true
 nav_order: 6
@@ -9,36 +9,6 @@ nav_order: 6
 ***
 
 At the Feugmo Research Group, we know diversity enables excellence in research and innovation. We are committed to a diverse and representative workforce, an open and inclusive work environment, and contributing to a more inclusive  innovation system. We welcomes all qualified applicants and encourages candidates to self-declare as members of the following designated employment equity groups: women, visible minorities, aboriginal peoples and persons with disabilities
-
-***
-# Current Positions
-
-## 1-2 MSc/PhD  starting in Sep 2023 and onwards:
-
-1 or 2 MSc/PhD positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
-
-
-- **Project 1:** Accelerating the design of High Entropy Alloys using Machine Learning
-    - **Primary fields:**  High Entropy Alloys, Graph Neural Network, Active Learning, Bayesian Optimization, Adaptive Design, Generative Model, Inverse Design
-
-- **Project 2:**  Computational design of nanomaterial-based gas sensors for breath diagnosis
-    - **Primary fields:** Mixed metal oxides,  2D-Materials,  Microkinetic Modeling, Grand canonical electronic density-functional theory , DFT + U Approach,  Machine Learning
-
-
-- **Project 3**:  A Bonding Evolution Theory (BET) study on Dual-Atom Catalysts: Electrochemical synthesis of ammonia
-    - **Primary fields:** Heterogenous catalysis, Bonding Evolution Theory, Electron Localized Function, Dual-atom catalysts, Microkinetic Modeling, DFT
-
-- **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
-    - **Primary fields:**  Solid-state battery, Solid ionic conductivity, electron-insulating material, Lithium-ion battery,  ceramic materials, Microkinetic Modeling, Grand canonical electronic density-functional theory,  Machine Learning
-
-##  one  postdoctoral
-
-One postdoctoral position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
-
-
-- **Stream 1 :**  First-principles Calculations, Kinetic Monte Carlo, Metal Hydride,  Density Functional Theory, Machine Learning, Ab initio MD calculations, Computational X-ray spectroscopy.
-
-- **Stream 2:** Phase-field modeling, Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  High Entropy Alloys, Metal Hydride,  Machine Learning
 
 
 
@@ -55,7 +25,10 @@ Working in our research group is an excellent way to gain valuable rese and comp
 
 
 ***
-# Graduate students
+# Graduate Studies
+
+Currently considering applications from graduate students. A completed online application is required for admission; [start the application process now.](https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/future-students/applying-graduate-school/before-you-apply)
+
 
 There are several scholarship opportunities for both Canadian (including Permanent Residents) and international candidates. Students who hold OGS Scholarships from the Ontario Provincial Government, or NSERC PGS awards from the Canadian federal government, are eligible for top-up Awards.
 Useful links for prospective students:
@@ -72,6 +45,30 @@ Useful links for prospective students:
 [Commonwealth Scholarship and Fellowship Plan](https://here.ventureforcanada.ca/en/fp-2023?gclid=Cj0KCQjwqoibBhDUARIsAH2OpWgZ66feqg8r_wvRMZFk_XX0vYTmyOsCI0suyFWQOSD1VlyhDtKTzigaAqNoEALw_wcB) (Open to all)
 
 [MITACS: Accelerate, Elevate, Globalink](https://www.mitacs.ca/en/programs)
+
+
+# Current Positions
+
+## 1-2 Graduate Studies  starting in Sep 2023 and onwards:
+
+1 or 2  Graduate positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
+
+
+- **Project 1:** Accelerating the design of High Entropy Alloys using Machine Learning
+    - **Primary fields:**  High Entropy Alloys, Graph Neural Network, Active Learning, Bayesian Optimization, Adaptive Design, Generative Model, Inverse Design
+
+- **Project 2:**  Computational design of nanomaterial-based gas sensors for breath diagnosis
+    - **Primary fields:** Mixed metal oxides,  2D-Materials,  Microkinetic Modeling, Grand canonical electronic density-functional theory , DFT + U Approach,  Machine Learning
+
+
+- **Project 3**:  Novel electrochemical technologies for CO2 capture both from flue gas and air
+    - **Primary fields:** Heterogenous catalysis, Bonding Evolution Theory, Electron Localized Function, Dual-atom catalysts, Microkinetic Modeling, DFT
+
+- **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
+    - **Primary fields:**  Solid-state battery, Solid ionic conductivity, electron-insulating material, Lithium-ion battery,  ceramic materials, Microkinetic Modeling, Grand canonical electronic density-functional theory,  Machine Learning
+
+
+
 
 ***
 # Postdoctoral researchers
@@ -103,6 +100,18 @@ NSERC Industrial R&D Fellowships (Canadian citizens or Permanent Residents)
 [Postdoctoral fellowships for Japanese students to come to Canada](https://www.jsps.go.jp/english/e-ab/index.html)
 
 [DFG's Research Fellowships](https://www.dfg.de/en/research_funding/programmes/individual/research_fellowships/) (to conduct a defined project at a location of their choice in a country other than Germany)
+
+# Current Positions
+
+
+##  one  postdoctoral
+
+One postdoctoral position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
+
+
+- **Stream 1 :**  First-principles Calculations, Kinetic Monte Carlo, Metal Hydride,  Density Functional Theory, Machine Learning, Ab initio MD calculations, Computational X-ray spectroscopy.
+
+- **Stream 2:**  Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  High Entropy Alloys, Metal Hydride,  Machine Learning
 
 ***
 # Visiting & Exchange students

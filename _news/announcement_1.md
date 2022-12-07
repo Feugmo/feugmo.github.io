@@ -11,9 +11,9 @@ At the Feugmo Research Group, we know diversity enables excellence in research a
 # Current Positions
 ***
 
-## 1-2 MSc/PhD  starting in Sep 2023 and onwards:
+## 1-2 Graduate Studies  starting in Sep 2023 and onwards:
 
-1 or 2 fully funded MSc/PhD positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
+1 or 2  Graduate positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
 
 
 - **Project 1:** Accelerating the design of High Entropy Alloys using Machine Learning
@@ -23,7 +23,7 @@ At the Feugmo Research Group, we know diversity enables excellence in research a
     - **Primary fields:** Mixed metal oxides,  2D-Materials,  Microkinetic Modeling, Grand canonical electronic density-functional theory , DFT + U Approach,  Machine Learning
 
 
-- **Project 3**:  A Bonding Evolution Theory (BET) study on Dual-Atom Catalysts: Electrochemical synthesis of ammonia
+- **Project 3**:   Novel electrochemical technologies for CO2 capture both from flue gas and air
     - **Primary fields:** Heterogenous catalysis, Bonding Evolution Theory, Electron Localized Function, Dual-atom catalysts, Microkinetic Modeling, DFT
 
 - **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
@@ -36,7 +36,7 @@ One postdoctoral position open in Thermodynamic and Kinetic Modeling of Hydrogen
 
 - **Stream 1 :**  First-principles Calculations, Kinetic Monte Carlo, Metal Hydride,  Density Functional Theory, Machine Learning, Ab initio MD calculations, Computational X-ray spectroscopy.
 
-- **Stream 2:** Phase-field modeling, Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  High Entropy Alloys, Metal Hydride,  Machine Learning
+- **Stream 2:**  Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  High Entropy Alloys, Metal Hydride,  Machine Learning
 
 
 <!---
