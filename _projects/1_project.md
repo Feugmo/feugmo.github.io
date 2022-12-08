@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hydrogen Storage
-description: Thermodynamic and Kinetic Modeling of Hydrogen Storage  in High Entropy Alloys (HEAs) Materials 
+description: Thermodynamic and Kinetic Modeling of Hydrogen Storage  in High Entropy Alloys (HEAs) Materials
 img: assets/img/MH_absorption.png
 importance: 1
 category: Materials Sciences
@@ -30,9 +30,9 @@ As of 2022, there are three hydrogen car models available to the public in some 
         {% include figure.html path="assets/img/DOE_FCTO_hydrogen_storage_materials_capacity_chart.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/GKN_Hydrogen_Infografik.pngf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/HEA-H.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-     Store green hydrogen from renewable sources for various applications ((&copy; GKN Hydrogen ).  Hydrogen gravimetric capacity of proposed storage materials for hydrogen fuel as a function of hydrogen release temperature (&copy; US Department of Energy:). Schematic of high-entropy materials for applications in energy storage and conversion (Energy Environ. Sci., 2021, 14, 2883-2905)
+     Store green hydrogen from renewable sources for various applications (&copy; GKN Hydrogen ).  Hydrogen gravimetric capacity of proposed storage materials for hydrogen fuel as a function of hydrogen release temperature (&copy; US Department of Energy:). Schematic of high-entropy materials for applications in energy storage and conversion (Energy Environ. Sci., 2021, 14, 2883-2905)
 </div>

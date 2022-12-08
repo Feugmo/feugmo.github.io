@@ -38,4 +38,4 @@ Coming Soon :alarm_clock:
     </div>
 </div>
 <div class="caption">
-Power-to-power (PTP) energy consumption of NH3 as a hydrogen energy carrier (Copyright 2021 American Chemical Society, ACS Energy Lett. 2021, 6, 12, 4390–4394). (Copyright 2021 American Chemical Society, ACS Energy Lett. 2021, 6, 12, 4390–4394). Electrochemical NOx reduction has emerged as an efficient strategy for ammonia synthesis and remediation of pollutants in wastewater and from exhausts. (Chempluschem 2021 86, 1211–1224 2021).
+Power-to-power (PTP) energy consumption of NH3 as a hydrogen energy carrier (&copy Copyright 2021 American Chemical Society, ACS Energy Lett. 2021, 6, 12, 4390–4394). Electrochemical NOx reduction has emerged as an efficient strategy for ammonia synthesis and remediation of pollutants in wastewater and from exhausts. (Chempluschem 2021 86, 1211–1224 2021).
