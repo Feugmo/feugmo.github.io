@@ -16,7 +16,7 @@ horizontal: false
 - Nonlinear Optics,
 - Vibrational and Electronic Spectroscopies
 - First Principle Calculations, Molecular Dynamics
-- Monte Carlo Simulation, Microkinetic Modeling
+- Phase Field Crystal model, Monte Carlo Simulation, Microkinetic Modeling
 - High performance computing and software development
 - Data solutions for sciences
 
@@ -32,7 +32,7 @@ horizontal: false
     - Storing Hydrogen in Metal Hydrides
     - Solid-state batteries
     - Na-ion batteries
-    - Electroreduction of nitrogen to ammonia
+    - Ammonia as Hydrogen carrier, Electrochemical NOx and N2 reduction, Electrochemical NH3 decomposition
 - Deep Learning
     - Graph Neural Network
     - Generative Model
