@@ -16,18 +16,27 @@ At the Feugmo Research Group, we know diversity enables excellence in research a
 1 or 2  Graduate positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
 
 
-- **Project 1:** Accelerating the design of High Entropy Alloys using Machine Learning
+- **Project 1:**  Novel electrochemical technologies for CO2 capture both from flue gas and air
+
+Are you an aspiring student with knowledge of organic synthesis and looking for postgraduate studies on gaining the knowledge of AI machine learning and electrochemistry, developing the skills for materials synthesis, and tackling the issues related to the climate change?
+A Master student position is available at Feugmo’s research group  to work on an exciting project in collaboration with National Research Council of Canada (NRC) at Mississauga Ontario. To reach the net zero target by the year of 2050, we focus on develop the novel electrochemical technologies for CO2 capture both from flue gas and air. The project focuses on DFT calculation as the guidance to discover promising materials for the direct air capture, synthesizing the promising redox molecules and testing their performance for direct air capture.  
+- Responsibilities
+  + The successful candidate will be under the supervision of Prof. Tetsassi working on Machine learning and DFT calculations to guide the design of the materials and synthesis the promising materials for direct air capture.
+  + The candidate will be able to travel between the universities and NRC-Mississauga for various research activities.
+  + The candidate will synthesize organic molecules at the lab of  Prof Derek Schipper
+  + The candidate will learn the basic electrochemistry related techniques to evaluate the performance of the molecules for direct air capture at NRC.
+
+- **Project 2:** Accelerating the design of High Entropy Alloys using Machine Learning
     - **Primary fields:**  High Entropy Alloys, Graph Neural Network, Active Learning, Bayesian Optimization, Adaptive Design, Generative Model, Inverse Design
 
-- **Project 2:**  Computational design of nanomaterial-based gas sensors for breath diagnosis
+
+- **Project 3:**  Computational design of nanomaterial-based gas sensors for breath diagnosis
     - **Primary fields:** Mixed metal oxides,  2D-Materials,  Microkinetic Modeling, Grand canonical electronic density-functional theory , DFT + U Approach,  Machine Learning
 
 
-- **Project 3**:   Novel electrochemical technologies for CO2 capture both from flue gas and air
-    - **Primary fields:** Heterogenous catalysis, Bonding Evolution Theory, Electron Localized Function, Dual-atom catalysts, Microkinetic Modeling, DFT
-
 - **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
     - **Primary fields:**  Solid-state battery, Solid ionic conductivity, electron-insulating material, Lithium-ion battery,  ceramic materials, Microkinetic Modeling, Grand canonical electronic density-functional theory,  Machine Learning
+
 
 ##  one  postdoctoral
 
