@@ -9,3 +9,10 @@ sudo gem install mini_racer -v '0.6.3' --source 'https://rubygems.org/'
 
 
 ruby -rrbconfig -e 'puts RbConfig::CONFIG["rubyhdrdir"]'
+
+bundle exec jekyll serve
+
+git add *
+git commit -am "version"
+git push 
+bin/deploy --user

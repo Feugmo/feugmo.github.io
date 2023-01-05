@@ -11,12 +11,12 @@ At the Feugmo Research Group, we know diversity enables excellence in research a
 # Current Positions
 ***
 
-## 1-2 Graduate Studies  starting in Sep 2023 and onwards:
-
-1-2  Graduate positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
+## 1-2 Graduate Studies : Computational Chemistry/Materials science and  Machine Learning starting in Sep 2023
 
 
-- **Project 1:**  Novel electrochemical technologies for CO2 capture both from flue gas and air
+
+
+### **Project 1:**  Novel electrochemical technologies for CO2 capture both from flue gas and air
 
 Are you an aspiring student with knowledge of organic synthesis and looking for postgraduate studies on gaining the knowledge of AI machine learning and electrochemistry, developing the skills for materials synthesis, and tackling the issues related to the climate change?
 A Master student position is available at Feugmo’s research group  to work on an exciting project in collaboration with National Research Council of Canada (NRC) at Mississauga Ontario. To reach the net zero target by the year of 2050, we focus on develop the novel electrochemical technologies for CO2 capture both from flue gas and air. The project focuses on DFT calculation as the guidance to discover promising materials for the direct air capture, synthesizing the promising redox molecules and testing their performance for direct air capture.  
@@ -28,15 +28,14 @@ A Master student position is available at Feugmo’s research group  to work on 
   + Canadians and permanent residents will be given priority
 
 
-- **Project 2:** Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
+### **Project 2:** Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
 
-    - **Primary fields:**
+- **Primary fields:**
 Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  High Entropy Alloys, Metal Hydride,  Machine Learning
 
 
-
-- **Project 3:**  Computational design of nanomaterial-based gas sensors for breath diagnosis
-    - **Primary fields:** Mixed metal oxides,  2D-Materials,  density-functional theory , DFT + U Approach,  Machine Learning
+### **Project 3:**  Computational design of nanomaterial-based gas sensors for breath diagnosis
+ - **Primary fields:** Mixed metal oxides, Metal Oxide Semiconductor, 2D-Materials,  density-functional theory , DFT + U Approach,  Machine Learning
 
 <!---
 - **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
@@ -46,10 +45,10 @@ Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  Hi
 ##  postdoctoral : Computational Materials Science
 
 - Job Description :
-Computational design of catlyst for  electrochemical reduction NOx and N2 and  Electrochemical decomposition  of NH3 
+Computational design of catalyst for  electrochemical reduction NOx and N2 and  Electrochemical decomposition  of NH3 
+
 
 - Required Qualifications 
-
    + Must be a recent  PhD (or equivalent) in theoretical or computational physical science (chemistry, physics or materials). 
     + Experience in first principles calculations and 
     + Strong background in solid state physics
@@ -59,8 +58,8 @@ Computational design of catlyst for  electrochemical reduction NOx and N2 and  E
     + Excellent communication skills in technical writing, oral presentation, and interpersonal communication
     + Team spirit in an environment with both computational and experimental collaborators
 
-- Preferred Qualifications
 
+- Preferred Qualifications
     + Expertise in electronic structure theory and density-functional theory ( VASP, Quantum Epresso..)
     + Demonstrated ability to manage multiple research projects simultaneously
     + Microkinetic Modeling, Machine Learning
