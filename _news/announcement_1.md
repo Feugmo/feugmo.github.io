@@ -37,10 +37,10 @@ Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  Hi
 ### **Project 3:**  Computational design of nanomaterial-based gas sensors for breath diagnosis
  - **Primary fields:** Mixed metal oxides, Metal Oxide Semiconductor, 2D-Materials,  density-functional theory , DFT + U Approach,  Machine Learning
 
-<!---
-- **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
-    - **Primary fields:**  Solid-state battery, Solid ionic conductivity, electron-insulating material, Lithium-ion battery,  ceramic materials, Microkinetic Modeling, Grand canonical electronic density-functional theory,  Machine Learning
---->
+
+### **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
+- **Primary fields:**  Solid-state battery, Solid ionic conductivity, electron-insulating material, Amorphous materials, Microkinetic Modeling,  density-functional theory,  Machine Learning, Phase-field Crystal modeling
+
 
 ##  postdoctoral : Computational Materials Science
 
