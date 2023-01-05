@@ -48,8 +48,11 @@ Useful links for prospective students:
 
 
 # Current Positions
+ to travel between the universities and NRC-Mississauga for various research activities.
+ 
+## 1-2 Graduate Studies  starting in Sep 2023 and onwards:
 
-## 1-2  Graduate positions in  Computational Chemistry/Materials science and  Machine Learning  in my group (starting in Sep 2023 and onwards)
+1-2  Graduate positions in  Computational Chemistry/Materials science and  Machine Learning  in my group
 
 
 - **Project 1:**  Novel electrochemical technologies for CO2 capture both from flue gas and air
@@ -61,18 +64,18 @@ A Master student position is available at Feugmo’s research group  to work on 
   + The candidate will be able to travel between the universities and NRC-Mississauga for various research activities.
   + The candidate will synthesize organic molecules at the lab of  Prof Derek Schipper
   + The candidate will learn the basic electrochemistry related techniques to evaluate the performance of the molecules for direct air capture at NRC.
+  + Canadians and permanent residents will be given priority
 
-- **Project 2:** Accelerating the design of High Entropy Alloys using Machine Learning
-    - **Primary fields:**  High Entropy Alloys, Graph Neural Network, Active Learning, Bayesian Optimization, Adaptive Design, Generative Model, Inverse Design
+
+- **Project 2:** Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
+
+    - **Primary fields:**
+Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  High Entropy Alloys, Metal Hydride,  Machine Learning
+
 
 
 - **Project 3:**  Computational design of nanomaterial-based gas sensors for breath diagnosis
-    - **Primary fields:** Mixed metal oxides,  2D-Materials,  Microkinetic Modeling, Grand canonical electronic density-functional theory , DFT + U Approach,  Machine Learning
-
-
-- **Project 4**: Computational design of Inorganic solid electrolyte (ISE)
-    - **Primary fields:**  Solid-state battery, Solid ionic conductivity, electron-insulating material, Lithium-ion battery,  ceramic materials, Microkinetic Modeling, Grand canonical electronic density-functional theory,  Machine Learning
-
+    - **Primary fields:** Mixed metal oxides,  2D-Materials,  density-functional theory , DFT + U Approach,  Machine Learning
 
 
 
@@ -109,13 +112,24 @@ NSERC Industrial R&D Fellowships (Canadian citizens or Permanent Residents)
 
 # Current Positions
 
+ - Job Description :
+Computational design of catlyst for  electrochemical reduction NOx and N2 and  Electrochemical decomposition  of NH3 
 
-##  One postdoctoral position open in Thermodynamic and Kinetic Modeling of Hydrogen Storage in High Entropy Alloys (HEAs) Materials.
+- Required Qualifications 
+   + Must be a recent  PhD (or equivalent) in theoretical or computational physical science (chemistry, physics or materials). 
+    + Experience in first principles calculations and 
+    + Strong background in solid state physics
+    + Programming skills (e.g., Python, C++), and familiarity with Unix/Linux in high-performance computing environments
+    + Creativity and strong analytical and problem-solving skills
+    + Ability to conduct self-motivated research, critically assess results, and troubleshoot when necessary
+    + Excellent communication skills in technical writing, oral presentation, and interpersonal communication
+    + Team spirit in an environment with both computational and experimental collaborators
 
+- Preferred Qualifications
+    + Expertise in electronic structure theory and density-functional theory ( VASP, Quantum Epresso..)
+    + Demonstrated ability to manage multiple research projects simultaneously
+    + Microkinetic Modeling, Machine Learning
 
-- **Stream 1 :**  First-principles Calculations, Kinetic Monte Carlo, Metal Hydride,  Density Functional Theory, Machine Learning, Ab initio MD calculations, Computational X-ray spectroscopy.
-
-- **Stream 2:**  Phase-field Crystal modeling, reaction-diffusion modeling, Phase transition,  High Entropy Alloys, Metal Hydride,  Machine Learning
 
 ***
 # Visiting & Exchange students
